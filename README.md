@@ -338,13 +338,6 @@ Add screenshots here:
 [Watch Demo Video](ACCISENSE.mp4)
 ```
 
-or
-
-```md
-[YouTube Demo](YOUR_YOUTUBE_LINK)
-```
-
----
 
 # 🔮 Future Enhancements
 
