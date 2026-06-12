@@ -211,15 +211,6 @@ These results indicate that environmental and vehicle-condition factors contribu
 
 ---
 
-# 📸 Feature Importance Visualization
-
-Add your uploaded image:
-
-```md
-![Feature Importance](images/accident_top_features.png)
-```
-
----
 
 # 🚀 REST API Endpoints
 
@@ -336,22 +327,15 @@ AcciSense/
 Add screenshots here:
 
 ```md
-![Dashboard](images/dashboard.png)
-<img width="1599" height="899" alt="Accisense Screenshot 2" src="https://github.com/user-attachments/assets/79588440-4050-458e-81b5-3cd363ebc901" />
+![Dashboard](images/Accisense Screenshot 1.png)
 
 ```
 
-```md
-![Prediction](images/prediction.png)
-```<img width="1599" height="899" alt="Accisense Screenshot 1" src="https://github.com/user-attachments/assets/5f2aab1f-53a4-4db3-87d4-434cb2a5d611" />
-
-
----
 
 ## Video Demonstration
 
 ```md
-[Watch Demo Video](demo/demo_video.mp4)
+[Watch Demo Video](ACCISENSE.mp4)
 ```
 
 or
